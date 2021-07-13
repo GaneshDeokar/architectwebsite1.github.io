@@ -409,7 +409,8 @@ html{
 }
 .contact_left{
 	width: 35%;
-	background: linear-gradient(rgba(15,15,15,.6),rgba(23,23,23,.9)),url(images/contact-bg.jpg) center no-repeat;
+	background: linear-gradient(rgba(15,15,15,.6),rgba(23,23,23,.9)),url(
+		contact-bg.jpg) center no-repeat;
 	background-size: cover;
 }
 .contact_right{
